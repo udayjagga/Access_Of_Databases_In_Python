@@ -5,3 +5,6 @@ The Code in this project is used to access the SQL databases in python and to ru
 * SQL
 * Python
 * Pandas
+
+## Purpose
+To learn how to access SQL databases in python and how to store the table in database as a Data frame using pandas
